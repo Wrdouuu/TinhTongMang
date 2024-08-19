@@ -1,0 +1,14 @@
+C:\Users\admin\Desktop\Bai tap\BaitapMang1\bin\Debug\net8.0\BaitapMang1.exe
+C:\Users\admin\Desktop\Bai tap\BaitapMang1\bin\Debug\net8.0\BaitapMang1.deps.json
+C:\Users\admin\Desktop\Bai tap\BaitapMang1\bin\Debug\net8.0\BaitapMang1.runtimeconfig.json
+C:\Users\admin\Desktop\Bai tap\BaitapMang1\bin\Debug\net8.0\BaitapMang1.dll
+C:\Users\admin\Desktop\Bai tap\BaitapMang1\bin\Debug\net8.0\BaitapMang1.pdb
+C:\Users\admin\Desktop\Bai tap\BaitapMang1\obj\Debug\net8.0\BaitapMang1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\Desktop\Bai tap\BaitapMang1\obj\Debug\net8.0\BaitapMang1.AssemblyInfoInputs.cache
+C:\Users\admin\Desktop\Bai tap\BaitapMang1\obj\Debug\net8.0\BaitapMang1.AssemblyInfo.cs
+C:\Users\admin\Desktop\Bai tap\BaitapMang1\obj\Debug\net8.0\BaitapMang1.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\Bai tap\BaitapMang1\obj\Debug\net8.0\BaitapMang1.dll
+C:\Users\admin\Desktop\Bai tap\BaitapMang1\obj\Debug\net8.0\refint\BaitapMang1.dll
+C:\Users\admin\Desktop\Bai tap\BaitapMang1\obj\Debug\net8.0\BaitapMang1.pdb
+C:\Users\admin\Desktop\Bai tap\BaitapMang1\obj\Debug\net8.0\BaitapMang1.genruntimeconfig.cache
+C:\Users\admin\Desktop\Bai tap\BaitapMang1\obj\Debug\net8.0\ref\BaitapMang1.dll
